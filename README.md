@@ -10,3 +10,4 @@ It's evident that there is a corelation in between population and the average fa
 
 # Summary
 Another observation we are able to extract from the data is drivers in suburban areas seem to have made more profict during the end of February while their rural counterparts reached their peaks at the beginning of April.
+![challenge_fig](https://user-images.githubusercontent.com/92558873/143814926-51d0f586-75b7-4e27-be96-220f5c8d7abf.png)
